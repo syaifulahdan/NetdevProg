@@ -9,7 +9,7 @@
 | <p align="center">1-3</p> | <p align="center">4</p> | <b>Quiz</b> |1-3|1-3| 
 | <p align="center">4</p> | <p align="center">5</p> | <b>OpenFlow</b> | OpenFlow, OpenFlow switch, Controller, Flow table, Match, Action Priority, Cookie, Timeout, Packet-In, Packet-Out, Flow-Mod, Statistics | View flows, add flows, delete flows, view statistics |
 | <p align="center">5</p> |<p align="center">6</p> | <b>Mininet</b> |Network emulation, Virtual network, Mininet Host, Switch, Link, Controller, Topology| Create a host (h1, h2..), Create a switch (s1, s2..), Test connectivity (Pingall, nodes, net, dump) |
-| <p align="center">6</p> | <p align="center">7</p> | <p align="center">7</p> |<b>Mininet Topology Programming</b> |Mininet Python API, Custom topology, , Host, Switch, Bandwidth
+| <p align="center">6</p> | <p align="center">7</p> |<b>Mininet Topology Programming</b> |Mininet Python API, Custom topology, , Host, Switch, Bandwidth
 Delay, Packet loss| [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 | <p align="center">7</p>| <p align="center">8</p>| <b>SDN Controller</b> | Controller function, Controller architecture, Southbound API, Northbound API, Controller application, Reactive vs proactive forwarding, Controller scalability, Controller (Ryu / os-ken, ONOS, OpenDaylight, Faucet)| Running the controller and connecting (Mininet and Controller) |
 | <p align="center">8</p> | <b>Network Information Service (NIS)</b> | Installation, NIS domain configuration, user synchronization, and NIS server testing.| [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
