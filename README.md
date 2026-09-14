@@ -1,5 +1,7 @@
 ## Network Device Programming
 ***
+Network Device Programming covers the concepts, principles, architecture, and implementation of network programming, with a focus on Software-Defined Networking (SDN). Students study the separation of the control plane and data/forwarding plane, SDN architecture, SDN controllers, OpenFlow, programmable switches, network automation, REST APIs, and network application development.
+
 <b>1. Tabel Of Content</b>
 |Chapter| Meeting |Section | Sub-Section Theory|Sub-Section Practice|
 | --- | --- |--- | --- | --- |
