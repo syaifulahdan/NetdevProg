@@ -1,6 +1,6 @@
 ## Network Device Programming
 ***
-<b>Tabel Of Content</b>
+<b>1. Tabel Of Content</b>
 |Chapter| Meeting |Section | Sub-Section Theory|Sub-Section Practice|
 | --- | --- |--- | --- | --- |
 | <p align="center">1</p> | <p align="center">1</p> |<b>Introduction to Network Device Programming</b> |Definition of network programming, Differences between manual configuration and programmable networking, Network devices and network operating systems, CLI vs. API, Network automation, Basic concepts of SDN, Motivation for SDN development [[read]](https://github.com/syaifulahdan/Netadmin/blob/main/Network_Administration_Tools/netadtools.md) | Install Ubuntu Linux and VirtualBox; introduction to Linux networking (ip, Ping, Traceroute, tcpdump); Python for simple network programming. [[read]](https://github.com/syaifulahdan/Netadmin/blob/main/Network_Administration_Tools/netadtools.md) |
