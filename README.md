@@ -24,6 +24,7 @@ In this practical session, we will build a virtual network environment using Lin
 | <p align="center">13</p> | <p align="center">15</p> |<b>Network Automation dan REST API</b> |REST API, JSON, Network automation, API-based management, SDN northbound interface, Automation workflow |Students create a simple API: GET /switches, GET /flows, GET /statistics, POST /flow, DELETE /flow. |
 
 <b>2. Prerequisite</b>
+
 To support Network Programming laboratory activities, providing an adequate working environment is crucial for ensuring that every testing scenario runs optimally. This course requires a suite of complementary software tools—ranging from virtualization environments and operating systems, Software-Defined Networking (SDN)-based network emulators, and data traffic analysis tools to web/API development frameworks and version control systems. Each of these software components plays a specific role in ensuring the comprehensive implementation of network programming, simulation, and analysis workflows.
 |No|Software| Function |URL |
 | --- | --- | --- |--- | 
