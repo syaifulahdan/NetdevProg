@@ -1,7 +1,7 @@
 ## Network Device Programming
 ***
 <b>Tabel Of Content</b>
-|Chapter| Section | Sub-Section | Action |
+|Chapter| Section | Sub-Section Theory|Sub-Section Practice| Action |
 | --- | --- | --- | --- |
 | <p align="center">1</p> | <b>Introduction to Network Device Programming</b> |Network Administration Tools, Updating paket, serta pemeriksaan service yang berjalan pada server | [[read]](https://github.com/syaifulahdan/Netadmin/blob/main/Network_Administration_Tools/netadtools.md) |
 | <p align="center">2</p> | <b>Python Fundamentals for Network Programming</b> |Forward/reverse zone configuration and DNS server testing| [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/2_Network_Attack/Network_Attack_Netsec.md) |
