@@ -35,5 +35,4 @@ To support Network Programming laboratory activities, providing an adequate work
 |<p align="center">4</p>| <p align="center">Mininet</p> |SDN Network Emulator |[https://mininet.org/](https://mininet.org/) |  
 |<p align="center">5</p>| <p align="center">Open vSwitch</p> |Virtual SDN Switch |[https://www.openvswitch.org/](https://www.openvswitch.org/) |  
 |<p align="center">6</p>| <p align="center">OpenFlow</p> |Southbound Protocol |[https://opennetworking.org/](https://opennetworking.org/) |  
-|<p align="center">7</p>| <p align="center">Ryu/os-ken</p> |SDN Controller Framework |[https://ryu-sdn.org/
-](https://ryu-sdn.org/) |  
+|<p align="center">7</p>| <p align="center">Ryu/os-ken</p> |SDN Controller Framework |[https://ryu-sdn.org/](https://ryu-sdn.org/) |  
