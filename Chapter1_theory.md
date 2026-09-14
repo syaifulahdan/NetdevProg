@@ -8,4 +8,5 @@ In this practical session, we will build a virtual network environment using Lin
 |Sub-Chapter| Sub-Section |Action|
 | --- | --- |--- |
 | <p align="center">1.1</p> | <p align="center">Definition of network programming</p> | [[read]](https://github.com/syaifulahdan/Netadmin/blob/main/Network_Administration_Tools/netadtools.md) | 
+| <p align="center">1.2</p> | <p align="center">Differences between manual configuration and programmable networking</p> | [[read]](https://github.com/syaifulahdan/Netadmin/blob/main/Network_Administration_Tools/netadtools.md) | 
 
