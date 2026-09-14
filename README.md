@@ -16,6 +16,4 @@
 | <p align="center">11</p> | <b>Network Monitoring</b> | Installation, Virtual Host configuration, web directory setup, and Web Server (Apache) testing. | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 | <p align="center">12</p> | <b>SDN Security</b> | Installation, Virtual Host configuration, web directory setup, and Web Server (Apache) testing. | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 | <p align="center">13</p> | <b>Traffic Engineering</b> |NAT/Port Forwarding configuration, network traffic filtering rules using Iptables/IPFire, and network security testing. | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
-| <p align="center">14</p> | <b>Network Automation dan REST API
-</b> |NAT/Port Forwarding configuration, network traffic filtering rules using Iptables/IPFire, and network security testing. | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
-<!--  contoh menghilangkan teks  -->
+ 
