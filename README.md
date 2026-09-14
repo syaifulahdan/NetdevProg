@@ -33,3 +33,4 @@ To support Network Programming laboratory activities, providing an adequate work
 |<p align="center">2</p>| <p align="center">VirtualBox</p> |Virtual machine for running various operating systems | [https://www.virtualbox.org/](https://www.virtualbox.org/) |  
 |<p align="center">3</p>| <p align="center">Python</p> |Network Programming | [https://www.python.org/](https://www.python.org/) |  
 |<p align="center">4</p>| <p align="center">Mininet</p> |SDN Network Emulator |[https://mininet.org/](https://mininet.org/) |  
+|<p align="center">5</p>| <p align="center">Open vSwitch</p> |Virtual SDN Switch |[https://www.openvswitch.org/](https://www.openvswitch.org/) |  
