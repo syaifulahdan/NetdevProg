@@ -22,4 +22,7 @@
 <b>2. Prerequisite</b>
 |No|Software| Function |URL |
 | --- | --- | --- |--- | 
-|<p align="center">1</p>| <p align="center">VirtualBox</p> |Virtual machine for running various operating systems | [https://www.virtualbox.org/](https://www.virtualbox.org/) |  
+|<p align="center">1</p>| <p align="center">Linux Ubuntu</p> |Operating System | [https://ubuntu.com/download
+](https://ubuntu.com/download
+) |  
+|<p align="center">2</p>| <p align="center">VirtualBox</p> |Virtual machine for running various operating systems | [https://www.virtualbox.org/](https://www.virtualbox.org/) |  
