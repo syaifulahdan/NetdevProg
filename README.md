@@ -20,6 +20,6 @@
 | <p align="center">13</p> | <p align="center">15</p> |<b>Network Automation dan REST API</b> |REST API, JSON, Network automation, API-based management, SDN northbound interface, Automation workflow |Students create a simple API: GET /switches, GET /flows, GET /statistics, POST /flow, DELETE /flow. |
 
 <b>2. Prerequisite</b>
-|Software| Function |URL |
-| --- | --- |--- | 
+|No|Software| Function |URL |
+| --- | --- | --- |--- | 
 | <p align="center">1</p> | <p align="VirtualBox">1</p> |<b>Virtual machine for running various operating systems</b> |Virtual machine for running various operating systems | Install Ubuntu Linux and VirtualBox; introduction to Linux networking (ip, Ping, Traceroute, tcpdump); Python for simple network programming. [[read]](https://github.com/syaifulahdan/Netadmin/blob/main/Network_Administration_Tools/netadtools.md) | <p align="center">2</p> | <p align="center">2</p> |  s2..), Test connectivity (Pingall, nodes, net, dump) |
