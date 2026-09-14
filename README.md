@@ -3,7 +3,7 @@
 <b>Tabel Of Content</b>
 |Chapter| Section | Sub-Section | Action |
 | --- | --- | --- | --- |
-| <p align="center">1</p> | <b>Network Administration Tools</b> |Network Administration Tools, Updating paket, serta pemeriksaan service yang berjalan pada server | [[read]](https://github.com/syaifulahdan/Netadmin/blob/main/Network_Administration_Tools/netadtools.md) |
+| <p align="center">1</p> | <b>Introduction to Network Device Programming</b> |Network Administration Tools, Updating paket, serta pemeriksaan service yang berjalan pada server | [[read]](https://github.com/syaifulahdan/Netadmin/blob/main/Network_Administration_Tools/netadtools.md) |
 | <p align="center">2</p> | <b>Domain Name System (DNS)</b> |Forward/reverse zone configuration and DNS server testing| [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/2_Network_Attack/Network_Attack_Netsec.md) |
 | <p align="center">3</p> | <b>Proxy Server</b> |Installation, ACL (Access Control List) configuration, and testing of the proxy server| [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/3_Password_Security/Password_Security_Netsec.md) |
 | <p align="center">4</p> | <b>Remote Access Server (Telnet & SSH Server)</b> | Port/authentication configuration and remote access testing via Telnet Server and SSH Server. | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
